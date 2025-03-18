@@ -1,1 +1,1 @@
-# Emb_Sys_Pong
+# Embedded Systems Pong Game
